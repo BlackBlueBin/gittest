@@ -2,3 +2,4 @@ b document create
 master add
 dev add
 :
+master modify b
