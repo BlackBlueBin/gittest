@@ -2,4 +2,5 @@ b document create
 master add
 dev add
 :
+this is modified by dev
 master modify b
